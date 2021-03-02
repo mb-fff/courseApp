@@ -1,0 +1,19 @@
+html {
+  background-image: url('../image/1.jpeg');
+  background-size: cover;
+}
+.el-menu.el-menu--horizontal {
+  border-bottom: none;
+}
+.el-breadcrumb {
+  margin: 20px;
+}
+a:hover {
+  color: red;
+}
+.text-content {
+  text-indent: 2em;
+  padding: 10px;
+  line-height: 150%;
+}
+/*# sourceMappingURL=./global.css.map */
